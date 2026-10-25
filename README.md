@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Joshika M. — Computer Science // Developer in progress"/>
+<img src="./header.svg" width="100%" alt="Joshika M. — Computer Science // Developer in progress"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FF4FA3&center=true&vCenter=true&width=620&height=40&lines=I+build.;I+break.;I+understand.;I+rebuild.;girls+who+code+write+the+future+%E2%99%A1" alt="Typing animation"/>
 
@@ -15,7 +16,7 @@
 <a href="https://github.com/joshika221b?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-B9A3FF?style=for-the-badge&logo=github&logoColor=0D0D12" alt="Projects"/></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>01 / PROFILE.EXE</code> ♡</h2>
 
@@ -24,7 +25,7 @@
 <table align="center" width="100%">
 <tr>
 <td width="48%" align="center" valign="middle">
-<img src="assets/pixel-girl.svg" width="100%" alt="Pixel art of a girl coding at her desk"/>
+<img src="./pixel-girl.svg" width="100%" alt="Pixel art of a girl coding at her desk"/>
 </td>
 <td width="52%" align="left" valign="middle">
 
@@ -56,13 +57,13 @@ Every <code>ERROR</code> is the compiler telling me where to grow next. ♡
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>02 / TECH_STACK</code> ⌨</h2>
 
-<img src="assets/stack.svg" width="100%" alt="C, C++, Java, HTML5, CSS3, JavaScript, Git, GitHub, VS Code"/>
+<img src="./stack.svg" width="100%" alt="C, C++, Java, HTML5, CSS3, JavaScript, Git, GitHub, VS Code"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>03 / SELECTED_WORK</code> ✦</h2>
 
@@ -73,31 +74,31 @@ Every <code>ERROR</code> is the compiler telling me where to grow next. ♡
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://joshika221b-source.github.io/QR-generator/"><img src="assets/card-qr.svg" width="100%" alt="QR Studio — QR code generator"/></a>
+<a href="https://joshika221b-source.github.io/QR-generator/"><img src="./card-qr.svg" width="100%" alt="QR Studio — QR code generator"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/joshika221b/Chess-Game"><img src="assets/card-chess.svg" width="100%" alt="Chess Game — game logic and gameplay"/></a>
+<a href="https://github.com/joshika221b/Chess-Game"><img src="./card-chess.svg" width="100%" alt="Chess Game — game logic and gameplay"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<a href="https://joshika221b-source.github.io/simple-converter/simple%20converter/"><img src="assets/card-converter.svg" width="100%" alt="Simple Converter — unit conversions"/></a>
+<a href="https://joshika221b-source.github.io/simple-converter/simple%20converter/"><img src="./card-converter.svg" width="100%" alt="Simple Converter — unit conversions"/></a>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="assets/card-3d.svg" width="100%" alt="3D Renderer — C++ graphics on Windows"/>
+<img src="./card-3d.svg" width="100%" alt="3D Renderer — C++ graphics on Windows"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>04 / CURRENTLY.EXE</code> ⚡</h2>
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal showing what I'm learning: DSA, frontend engineering, personal projects, problem solving"/>
+<img src="./terminal.svg" width="100%" alt="Terminal showing what I'm learning: DSA, frontend engineering, personal projects, problem solving"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>05 / STATS.LOG</code> ▣</h2>
 
@@ -131,7 +132,7 @@ Every <code>ERROR</code> is the compiler telling me where to grow next. ♡
 
 <div align="center">
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 <h2 align="center"><code>06 / OFFLINE_MODE</code> ✿</h2>
 
